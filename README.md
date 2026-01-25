@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🐐 Maqhajana Sandiso
+# 🐐 Sandiso Maqhajana
 **`Growth Lead at Bloombytes Technologies`** 
 
 ## About Me
