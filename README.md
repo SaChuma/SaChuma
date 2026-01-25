@@ -16,8 +16,8 @@ Credits and references used in this README:
 
 ## About Me
 - I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- Grew bloombytes technologies social media to 2K+ followers by the end of the year.
+- Help teach 145,000+ students and teachers cloud, AI, and tech skills
 
 
 ## Skill stack
