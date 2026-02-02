@@ -35,7 +35,7 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+      <a href="https://(https://github.com/SaChuma/Bus-Locator-App/blob/main/README.md)">
         <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
              alt="DeepSeek AI Project"
              style="width:100%; height:200px; object-fit:cover;"/>
