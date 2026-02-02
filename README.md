@@ -41,11 +41,12 @@ Credits and references used in this README:
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <b>Bus Locator App</b><br/>
+      <sub>Built an Android mobile app that provides real-time bus locations and ETAs, improving commuter experience.</sub><br/>
+      🔗 <a href[="https:https://github.com/SaChuma/Bus-Locator-App/blob/main/README.md">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: Android, Java, Mobile App, Real-Time Tracking, GPS, Public Transport, Software Testing, QA, Maps, User Experience
+</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
