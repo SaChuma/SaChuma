@@ -35,7 +35,7 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://(https://github.com/SaChuma/Bus-Locator-App/blob/main/README.md)">
+      <a href="https://github.com/SaChuma/Bus-Locator-App/blob/main/README.md">
         <img src="file:///C:/Users/Asus/Pictures/buslocaator.jpg"
              alt="Bus Locator App"
              style="width:100%; height:200px; object-fit:cover;"/>
