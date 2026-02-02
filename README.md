@@ -43,7 +43,7 @@ Credits and references used in this README:
       <br/>
       <b>Bus Locator App</b><br/>
       <sub>Built an Android mobile app that provides real-time bus locations and ETAs, improving commuter experience.</sub><br/>
-      🔗 <a href="https:https://github.com/SaChuma/Bus-Locator-App/blob/main/README.md">Repo</a>
+      🔗 <a href="https://github.com/SaChuma/Bus-Locator-App/blob/main/README.md">Repo</a>
       <br/>
       <sub>Tags: Android, Java, Mobile App, Real-Time Tracking, GPS, Public Transport, Software Testing, QA, Maps, User Experience
 </sub>
