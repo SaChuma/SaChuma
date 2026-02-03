@@ -86,8 +86,7 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/sachuma/github-readme-stats -->
-![SaChuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true&theme=radical)
----
+![SaChuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true&theme=gruvbox)
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
