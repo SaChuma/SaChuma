@@ -80,13 +80,13 @@ Credits and references used in this README:
 ---
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
+<!-- Stats card by sachuma/github-readme-stats
      Customization guide:
      - Hide private contributions: &count_private=true|false
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true&theme=gruvbox)| <a href="https://github.com/sachuma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachuma&layout=compact&theme=buefy&hide_border=true" /></a> |
+     Docs: https://github.com/sachuma/github-readme-stats -->
+![sachuma' GitHub stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true&theme=gruvbox)| <a href="https://github.com/sachuma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachuma&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ---
 
