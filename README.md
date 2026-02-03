@@ -15,9 +15,8 @@ Credits and references used in this README:
 **`Growth Lead at Bloombytes Technologies`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- I am Growing bloombytes technologies social media to 2K+ followers by the end of the year.
-- Help teach 145,000+ students and teachers cloud, AI, and tech skills.
+Software Engineer at Bloombytes Technologies.
+I build and ship real-world software, grow tech communities, and help 145,000+ learners develop skills in cloud, AI, and modern technologies.
 
 
 ## Skill stack
