@@ -84,10 +84,7 @@ SQL (PostgreSQL, MySQL), Git & GitHub, CI/CD basics, Networking & IT Support, RE
 
 ## Stats
 <!-- Stats card by sachuma/github-readme-stats
-     Customization guide:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true&title_color=ff8c00&icon_color=ff8c00)
-
-
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
