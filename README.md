@@ -25,8 +25,11 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,java,git,github,terraform,javascript,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (MySQL, PostgreSQL), Git & GitHub, CI/CD basics, Cloud fundamentals (Microsoft Azure), Networking & IT Support, API testing, and basic AI/ML workflows using Azure services.
+**Cloud & AI:**  
+Microsoft Azure, Azure AI Services, AI Fundamentals (AI-900), AI Engineer Associate  
 
+**Also comfortable with:**  
+SQL (PostgreSQL, MySQL), Git & GitHub, CI/CD basics, Networking & IT Support, REST APIs, API testing, and basic AI/ML workflows.
 
 ---
 
