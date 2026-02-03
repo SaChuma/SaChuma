@@ -89,7 +89,12 @@ SQL (PostgreSQL, MySQL), Git & GitHub, CI/CD basics, Networking & IT Support, RE
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/sachuma/github-readme-stats -->
-![SaChuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true&theme=gruvbox)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachuma&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachuma&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=sachuma)
+
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
