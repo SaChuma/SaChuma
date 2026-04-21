@@ -1,113 +1,136 @@
-# Hi there, I'm Sandiso Maqhajana 👋
+<!-- HERO HEADER -->
+<h1 align="center">Hi, I'm Sandiso Maqhajana 👋</h1>
+<h3 align="center">Junior Software Developer | Backend & Data Systems Enthusiast | IT Graduate 🇿🇦</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Graduate-Johannesburg,%20South%20Africa-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Junior%20Software%20Developer-Active-success?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Johannesburg,%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-success?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-orange?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m an IT graduate and junior software developer based in **Johannesburg, South Africa 🇿🇦**, focused on building practical, data-driven software solutions.
+I’m an **IT graduate and junior software developer** passionate about building **scalable backend systems, data-driven applications, and real-world problem-solving tools**.
 
-I enjoy working on backend systems, APIs, and data-related problems that translate real business challenges into simple and effective applications.
+I focus on writing clean, structured code and enjoy working on systems that handle **data validation, APIs, automation, and database integrity**.
 
----
-
-## 🚀 Currently Building & Learning
-
-- 🔧 Backend Development  
-- 📊 Data Reconciliation & Analysis  
-- 🗄️ SQL & Database Management  
-- 🔌 API Integration  
-- 🐍 Python Automation  
-- 🌐 Full-Stack Web Development  
+💡 My development mindset:
+> *“I learn by building real systems that solve real problems.”*
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I’m Currently Working On
 
-### 💻 Languages & Frameworks
+- 🔧 Backend Development (Python & Java)
+- 🗄️ SQL & Database Engineering
+- 🔌 API Integration & System Communication
+- 📊 Data Reconciliation & Analysis Systems
+- ⚙️ Python Automation Tools
+- 🌐 Full-Stack Web Applications (React + Backend)
 
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+### 🌐 Web & Frameworks
+<p>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ### 🗄️ Databases & Data
-
-- 🗃️ SQL (SQLite, Joins, Aggregations, Data Validation)
-- 📊 Pandas
-- 🔄 Data Reconciliation
+- SQL (SQLite, Joins, Aggregations, Optimization)
+- Pandas (Data Analysis)
+- Data Validation & Reconciliation Systems
 
 ### ⚙️ Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-- 📈 Streamlit  
-- 🧰 Microsoft Office Suite  
+- 📊 Streamlit (Dashboards & Data Apps)
+- 🧰 Microsoft Office Suite
 
 ---
 
-## 🌟 Featured Project
+## ⭐ Featured Project
 
-# 📌 Data Reconciliation & Insights Tool
+### 📌 Data Reconciliation & Insights Tool
 
-A Python-based system that compares API and database records to detect mismatches and data inconsistencies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Data%20Integrity%20System-purple?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-### ⚙️ What it does
+A backend-focused Python system designed to compare **API vs Database records** and detect inconsistencies in real-time.
 
-- 🔍 Compares API vs Database records  
-- ⚠️ Detects missing or mismatched transactions  
-- 🧠 Performs root cause analysis  
-- 📊 Displays results using a Streamlit dashboard  
+### ⚙️ Key Features
+- 🔍 API vs Database comparison engine  
+- ⚠️ Missing & mismatched transaction detection  
+- 🧠 Root cause analysis engine  
+- 📊 Streamlit-powered dashboard for insights  
 
 ### 🧰 Tech Stack
+`Python` · `SQL` · `SQLite` · `Pandas` · `Streamlit` · `JSON`
 
-`Python` | `SQL` | `SQLite` | `Pandas` | `Streamlit` | `JSON`
-
-💡 This project simulates real-world business systems where data consistency across platforms is critical.
-
----
-
-## 🎯 Current Goal
-
-Actively seeking:
-
-- 💼 Internship opportunities  
-- 🧑‍💻 Junior Developer roles  
-- 📘 Learnership programs  
-
-### Interested In:
-
-- 🖥️ Backend Development  
-- 📊 Data Engineering  
-- 🤖 AI & Data Solutions  
-- 🛠️ IT Support & Systems  
+💡 Built to simulate real enterprise data reconciliation systems used in financial and operational environments.
 
 ---
 
-## 📬 Let’s Connect
+## 🎯 Career Objective
 
-<p>
+I am actively seeking opportunities where I can contribute and grow in:
+
+- 💼 Internship Programs  
+- 🧑‍💻 Junior Software Developer Roles  
+- 📘 Learnerships (Software / Data / IT Systems)  
+
+### 💡 Interest Areas:
+- Backend Engineering  
+- Data Engineering & Analytics  
+- API & System Integration  
+- AI & Data Solutions  
+- IT Systems & Support Engineering  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaChuma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChuma&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
   <a href="mailto:sandisomaqhajana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sandiso-qhajie">
+  <a href="https://www.linkedin.com/in/sandiso-qhajie">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ *I’m always open to collaboration, learning, and new opportunities.*
+<p align="center">
+  ⭐ <b>“Consistency builds skill. Projects build careers.”</b>
+</p>
