@@ -103,7 +103,7 @@ Actively seeking:
     <img src="https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/sandiso-qhajie">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
