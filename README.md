@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I’m an **IT graduate and junior software developer** passionate about building **scalable backend systems, data-driven applications, and real-world problem-solving tools**.
+I’m an **IT graduate and aspiring data engineer** passionate about building **scalable backend systems, data-driven applications, and real-world problem-solving tools**.
 
 I focus on writing clean, structured code and enjoy working on systems that handle **data validation, APIs, automation, and database integrity**.
 
