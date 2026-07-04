@@ -1,9 +1,9 @@
 <!-- HERO HEADER -->
 <h1 align="center">Hi, I'm Sandiso Maqhajana 👋</h1>
-<h3 align="center">Junior Software Developer | Backend & Data Systems Enthusiast | IT Graduate 🇿🇦</h3>
+<h3 align="center">Aspiring Data Engineer | Python, SQL & Data Pipelines | IT Graduate 🇿🇦</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Johannesburg,%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Pretoria,%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-success?style=for-the-badge&logo=serverless&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-orange?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
