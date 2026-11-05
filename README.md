@@ -1,113 +1,91 @@
-<!-- HERO HEADER -->
-<h1 align="center">Hi, I'm Sandiso Maqhajana 👋</h1>
-<h3 align="center">Junior Data Engineer | Python · SQL · ETL/ELT · Apache Airflow · Azure 🇿🇦</h3>
-<h4 align="center">Software Developer (Java) · Microsoft Certified (AI-102, DP-900) · DataCamp Data Engineer</h4>
+# Hi, I'm Sandiso Maqhajana 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Midrand,%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Pipelines-success?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-orange?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
+### Microsoft Certified Graduate Data Engineer | Python · SQL · ETL/ELT · Apache Airflow · Azure 🇿🇦
+
+#### Microsoft Certified (DP-900, AI-102) · Diploma in IT (Software Development) · DataCamp: Data Engineer in Python
+
+![Location](https://img.shields.io/badge/Location-South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Pipelines-success?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-orange?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Data Engineer** with a background in **software development (Java)** and **two years of experience in IT support**. That combination gives me an engineering mindset and a practical understanding of how people and systems depend on reliable data.
+I'm a **graduate data engineer** with a background in **software development (Java)** and hands-on experience in **IT support**. That combination gives me an engineering mindset and a practical understanding of how people and systems depend on reliable data.
 
-I recently completed **DataCamp's Data Engineer track**, where I built an end-to-end **ETL pipeline with Python and Apache Airflow** and cleaned real-world datasets with **pandas**. I'm also Microsoft certified in **Azure AI Engineer Associate (AI-102)** and **Azure Data Fundamentals (DP-900)**.
+I recently completed **DataCamp's Data Engineer in Python** course (42 hours, October 2026), where I built an end-to-end **ETL pipeline with Python and Apache Airflow** and cleaned real-world datasets with **pandas**. I'm Microsoft certified in **Azure Data Fundamentals (DP-900)** and **Azure AI Engineer Associate (AI-102)**, and I'm preparing for the **Fabric Analytics Engineer Associate (DP-600)** exam in December 2026.
 
 💡 My mindset:
+
 > *"I learn by building real systems that solve real problems."*
 
 ---
 
 ## 🏅 Certifications & Training
 
-- 🎓 **DataCamp: Data Engineer track** (Python, pandas, ETL/ELT, Apache Airflow, APIs, Git, software engineering principles)
-- ☁️ **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
 - ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- ☁️ **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+- 📅 **Microsoft Fabric Analytics Engineer Associate (DP-600)**: exam scheduled for December 2026
+- 🎓 **DataCamp: Data Engineer in Python** (42 hours, Oct 2026): Python, pandas, ETL/ELT, Apache Airflow, APIs, Git, software engineering principles
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
 - 🔄 ETL/ELT pipelines with Python and Apache Airflow
-- ☁️ Building data projects on Azure
-- 🗄️ SQL & database engineering
+- 🗄️ SQL and database engineering
 - 🔌 API integration and data ingestion
 - 📊 Data reconciliation and data quality systems
 - 🧹 Data cleaning and validation with pandas
+- ☁️ Preparing for the Microsoft DP-600 exam
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🔄 Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - ETL / ELT pipeline development and orchestration (DAGs, scheduling)
-- Data ingestion from flat files, Excel, JSON, databases, and REST APIs
-- Data cleaning, validation, and reconciliation
+- Data ingestion from flat files, Excel, JSON, databases and REST APIs
+- Data cleaning, validation and reconciliation
 
 ### ☁️ Cloud
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### ⚙️ Tools & Practices
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
-- Git branching, merging, and collaboration workflows
-- Code review, modular and tested Python, documentation
-- 📊 Streamlit (dashboards & data apps)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+- Git branching, merging and collaboration workflows
+- Modular, tested Python (pytest) and documentation
+- 📊 Streamlit (dashboards and data apps)
 
 ---
 
 ## ⭐ Featured Projects
 
-### 📌 Retail Data Pipeline (ETL with Python & Airflow)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-ETL%20Pipeline-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-</p>
-
-An end-to-end pipeline that extracts retail data, transforms it with Python and pandas, and loads it to a destination on a schedule, orchestrated with Apache Airflow.
-
-**Key features**
-- 🔄 Extract, transform, load stages orchestrated as an Airflow DAG
-- 🧹 Data cleaning and validation steps with pandas
-- ⏱️ Scheduled, repeatable runs
-
-🧰 `Python` · `pandas` · `Apache Airflow` · `SQL`
-
-🔗 **Repo:** [ADD LINK TO YOUR RETAIL PIPELINE REPOSITORY]
-
----
-
 ### 📌 Data Reconciliation & Insights Tool
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Data%20Integrity%20System-purple?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
 
 A backend-focused Python system that compares **API vs database records** and detects inconsistencies.
 
 **Key features**
+
 - 🔍 API vs database comparison engine
-- ⚠️ Missing and mismatched transaction detection
+- ⚠️ Missing record, incorrect value and mismatched total detection
 - 🧠 Root cause analysis engine
 - 📊 Streamlit dashboard for insights
 
@@ -115,28 +93,58 @@ A backend-focused Python system that compares **API vs database records** and de
 
 💡 Built to simulate enterprise data reconciliation systems used in financial and operational environments.
 
+🔗 **Repo:** [data-reconciliation-tool](https://github.com/SaChuma/data-reconciliation-tool)
+
 ---
 
 ### 📌 Bank Marketing Campaign Data Cleaning
 
-Cleaned and standardised a real-world marketing dataset with pandas, handling missing values, inconsistent formats, and data type issues.
+Cleaned and standardised a real-world bank marketing dataset with pandas, fixing missing values, inconsistent formats and data type issues, and producing three structured, analysis-ready CSV files.
 
-🧰 `Python` · `pandas`
+🧰 `Python` · `pandas` · `Jupyter Notebook`
+
+🔗 **Repo:** [bank-marketing-data-cleaning](https://github.com/SaChuma/bank-marketing-data-cleaning)
+
+---
+
+### 📌 Retail Data Pipeline (ETL with Python & Airflow)
+
+An end-to-end pipeline that extracts retail data, transforms it with Python and pandas, and loads it to a destination on a schedule, orchestrated with Apache Airflow.
+
+- 🔄 Extract, transform and load stages orchestrated as an Airflow DAG
+- 🧹 Data cleaning and validation steps with pandas
+- ⏱️ Scheduled, repeatable runs
+
+🧰 `Python` · `pandas` · `Apache Airflow` · `SQL`
+
+<!-- Add the repo link here once the repository is public:
+🔗 **Repo:** [retail-data-pipeline](https://github.com/SaChuma/YOUR-REPO-NAME) -->
+
+---
+
+### 📌 Java & Web Application Projects
+
+- 🚌 [Bus-Locator-App](https://github.com/SaChuma/Bus-Locator-App) (Java): built to address the lack of real-time bus information for passengers
+- 🛍️ [ecommerce-app](https://github.com/SaChuma/ecommerce-app): hair and body products shop
+- 💇 [MySaloon](https://github.com/SaChuma/MySaloon): beauty studio website
 
 ---
 
 ## 🎯 Career Objective
 
-I'm actively looking for **Junior / Associate Data Engineer** roles where I can build reliable, scalable data pipelines and keep growing alongside experienced engineers.
+I'm looking for a **graduate / junior data engineering** role where I can build reliable, scalable data pipelines and keep growing alongside experienced engineers, with the aim of progressing into a developer role.
 
 ### 💡 Roles I'm targeting
-- Junior / Associate Data Engineer
+
+- Graduate / Junior Data Engineer
 - ETL Developer
 - Data Integration Engineer
 - Analytics Engineer
+- Junior Developer
 
 ### 🔭 Next on my learning path
-- Azure data services (Data Factory, Blob Storage, Azure SQL)
+
+- Microsoft Fabric and Azure data services (Data Factory, Azure SQL)
 - Spark / Databricks
 - Docker
 
@@ -144,31 +152,17 @@ I'm actively looking for **Junior / Associate Data Engineer** roles where I can 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaChuma&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaChuma&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChuma&theme=tokyonight" />
-</p>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SaChuma&theme=tokyonight)
 
 ---
 
 ## 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:sandisomaqhajana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sandisomaqhajana">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandisomaqhajana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandisomaqhajana)
 
 ---
 
-<p align="center">
-  ⭐ <b>"Consistency builds skill. Projects build careers."</b>
-</p>
-</p>
+⭐ **"Consistency builds skill. Projects build careers."**
