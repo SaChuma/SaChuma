@@ -161,7 +161,7 @@ I'm actively looking for **Junior / Associate Data Engineer** roles where I can 
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sandiso-qhajie">
+  <a href="https://www.linkedin.com/in/sandisomaqhajana">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
